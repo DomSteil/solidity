@@ -1,5 +1,8 @@
 ### 0.4.5 (unreleased)
 
+Features:
+ * Function types
+
 ### 0.4.4 (2016-10-31)
 
 Bugfixes:
